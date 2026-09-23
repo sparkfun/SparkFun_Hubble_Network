@@ -1,4 +1,5 @@
-*Banner image*
+![Banner](docs/images/gh-banner-sfe-hubble.png)
+
 # Using the Hubble Network with an ESP32-C6 Thing Plus
 
 This document provides an example of how to setup and use a [SparkFun Thing Plus - ESP32-C6](https://www.sparkfun.com/sparkfun-thing-plus-esp32-c6.html) development board on the Hubble Network.
